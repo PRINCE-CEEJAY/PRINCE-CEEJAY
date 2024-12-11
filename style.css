@@ -1,0 +1,38 @@
+/* MAIN PAGE STYLES  */
+
+#header {
+background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(50, 50, 50, 0.3)),
+url('images/ceesund\ head\ 2.JPG');
+
+}
+.bgImages {
+    background-attachment: fixed;
+    max-width: 100%;
+    opacity: 0.5;
+ }
+
+#welcome {
+font-size: 4rem;
+color: red;
+}
+
+marquee {
+    width: 100%;
+}
+#headTitle {
+    color: gold;    
+    }
+a {
+    color:aliceblue;
+    text-decoration: none;
+    margin: 150px 80px;
+    font-size: 1.5rem;
+   
+}
+
+a:hover {
+    color: red;
+    text-decoration:dotted;
+}
+
+

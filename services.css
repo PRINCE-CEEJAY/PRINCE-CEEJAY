@@ -1,0 +1,47 @@
+body {
+    padding:0px;
+    margin:2px;
+   
+}
+
+#header {
+background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(50, 50, 50, 0.3)),
+url('images/ceesund\ head\ 2.JPG');
+height: 190px;
+margin: 0px;
+}
+
+#welcome {
+font-size: 4rem;
+color: red;
+}
+
+a {
+    color:aliceblue;
+    text-decoration: none;
+    margin: 150px 80px;
+    font-size: 1.5rem;
+   
+}
+
+a:hover {
+    color: red;
+    text-decoration:dotted;
+}
+
+
+/*FOR THE CONTENTS OF THE BODY UNDER SERVICES LINK TAB*/
+ul {
+    margin-top: 50px;
+}
+
+ul li {
+    margin-bottom: 35px;
+    color: goldenrod;
+    font-weight: bolder;
+    font-size: 1.4rem;
+}
+
+ul li:hover {
+    color: green;    
+}
